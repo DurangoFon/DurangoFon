@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Cristian Durango</h1>
-<h3 align="center">I'm a curious person dedicated to know how the wolrd works.</h3>
+<h1 align="center">Cristian Durango</h1>
+<h2 align = 'center'> (Data scientist) </h2>
+<h3 align="center">I'm a curious person working in projects related with artificial inteligence. My main objetive is connect the artificial inteligence with the mechanical engineering</h3>
+
+<img source = ''>
 
 - 🔭 I’m currently working on [flower type classification](https://github.com/DurangoFon/Flower_type_classification)
 
